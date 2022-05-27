@@ -1,0 +1,4 @@
+- Hello, I’m @elemhunt
+- I’m interested in Artifical Intelligence and User Interface Desgin
+- I’m currently learning reinforcement learning
+- The best way to reach me is through my email elemhunt@gmail.com
