@@ -1,4 +1,4 @@
 - Hello, I’m @elemhunt
-- I’m interested in Artifical Intelligence, Software Developement, and Front-end Design
+- I’m interested in Artifical Intelligence, Software Developement, Cloud Engineering, and Back-end Design
 - I’m currently learning Tensorflow and AWS
 - The best way to reach me is through my email elemhunt@gmail.com
